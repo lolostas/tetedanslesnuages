@@ -1,0 +1,2 @@
+class Pouf < ApplicationRecord
+end
